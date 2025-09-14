@@ -127,7 +127,7 @@ const handleOutgoingChat = () => {
   isResponseGenerating = true;
 
   const html = `<div class="message-content">
-                  <img class="avatar" src="aura.jpeg" alt="User avatar">
+                  <img class="avatar" src="logo aura.jpeg" alt="User avatar">
                   <p class="text"></p>
                 </div>`;
 
